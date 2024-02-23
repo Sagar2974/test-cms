@@ -1,0 +1,48 @@
+{
+  "kind": "singleType",
+  "collectionName": "homes",
+  "info": {
+    "singularName": "home",
+    "pluralName": "homes",
+    "displayName": "Home",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Title": {
+      "type": "string",
+      "default": "Empowering Tomorrow, One Line of Code at a Time"
+    },
+    "sub_heading": {
+      "type": "text",
+      "default": "Unleashing Innovation through Exceptional Software Solutions."
+    },
+    "Button": {
+      "type": "string",
+      "default": "Any query ?"
+    },
+    "section1": {
+      "type": "string",
+      "default": "Our Partners"
+    },
+    "Section2": {
+      "displayName": "section2",
+      "type": "component",
+      "repeatable": false,
+      "component": "section2.section2"
+    },
+    "CommitCard": {
+      "displayName": "CommitCard",
+      "type": "component",
+      "repeatable": false,
+      "component": "code.commit-card"
+    },
+    "joinCommunity": {
+      "type": "string",
+      "default": "Join Our Community"
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "kind": "singleType",
+  "collectionName": "nft_recycles",
+  "info": {
+    "singularName": "nft-recycle",
+    "pluralName": "nft-recycles",
+    "displayName": "NFTRecycle"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "anyQuery": {
+      "type": "string",
+      "default": "Any query?"
+    },
+    "aboutText": {
+      "type": "string",
+      "default": "ABOUT NFTRECYCLE"
+    },
+    "aboutInfo": {
+      "type": "string",
+      "default": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vestibulum finibus neque vel aliquet. Duis in justo vel elit vehicula efficitur. Proin at justo ac leo fermentum tempus nec sit amet turpis. Sed tristique in erat at consectetu."
+    },
+    "nftRecycleLinkText": {
+      "type": "string",
+      "default": "NFT.recycle.com"
+    },
+    "nftRecycleLink": {
+      "type": "string"
+    },
+    "blockChainText": {
+      "type": "string",
+      "default": "Blockchain"
+    },
+    "nftText": {
+      "type": "string",
+      "default": "NFT"
+    },
+    "featureHeading": {
+      "type": "string",
+      "default": "Features of NFT recycle"
+    },
+    "featurePara": {
+      "type": "string",
+      "default": "Lorem ipsum dolor sit amet consectetur. Vitae imperdiet mattis tristique fermentum dignissim. Leo consequat sed non magnis tempus ridiculus pharetra nisl nulla. Venenatis leo mollis arcu praesent sollicitudin ut rutrum iaculis. Nisl tortor dignissim tincidunt eu volutpat sit turpis magna.Lorem ipsum dolor sit amet consectetur. Vitae imperdiet mattis tristique fermentum dignissim. Leo consequat sed non magnis tempus pharetra n ridiculusisl nulla. Venenatis leo mollis arcu praesent sollicitudin ut rutrum iaculis. Nisl tortor dignissim tincidunt eu volutpat sit turpis magna."
+    },
+    "feature1": {
+      "type": "string",
+      "default": "Lorem ipsum dolor sit amet consectetur. Vitae imperdiet mattis tristique fermentum dignissim."
+    },
+    "feature2": {
+      "type": "string",
+      "default": "Lorem ipsum dolor sit amet consectetur. Vitae imperdiet mattis tristique fermentum dignissim."
+    },
+    "feature3": {
+      "type": "string",
+      "default": "Lorem ipsum dolor sit amet consectetur. Vitae imperdiet mattis tristique fermentum dignissim."
+    },
+    "feature4": {
+      "type": "string",
+      "default": "Lorem ipsum dolor sit amet consectetur. Vitae imperdiet mattis tristique fermentum dignissim."
+    },
+    "overviewHeading": {
+      "type": "string",
+      "default": "Overview"
+    },
+    "overviewInfo": {
+      "type": "string",
+      "default": "Lorem ipsum dolor sit amet consectetur. Vitae imperdiet mattis tristique fermentum dignissim. Leo consequat sed non magnis tempus ridiculus pharetra nisl nulla. Venenatis leo mollis arcu praesent sollicitudin ut rutrum iaculis. Nisl tortor dignissim tincidunt eu volutpat sit turpis magna.Lorem ipsum dolor sit amet consectetur. Vitae imperdiet mattis tristique fermentum dignissim. Leo consequat sed non magnis tempus ridiculus pharetra nisl nulla. Venenatis leo mollis arcu praesent sollicitudin ut rutrum iaculis. Nisl tortor dignissim tincidunt eu volutpat sit turpis magna."
+    }
+  }
+}

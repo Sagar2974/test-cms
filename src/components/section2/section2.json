@@ -1,0 +1,41 @@
+{
+  "collectionName": "components_section2_section2s",
+  "info": {
+    "displayName": "section2"
+  },
+  "options": {},
+  "attributes": {
+    "heading": {
+      "type": "string",
+      "default": "Our Projects"
+    },
+    "p": {
+      "type": "string",
+      "default": "Lorem ipsum dolor sit amet consectetur. Aenean bibendum interdum faucibus viverra pellentesque integer. Consectetur nunc cursus id facilisis fermentum tempor faucibus senectus. Laoreet gravida nisl posuere nec bibendum. Nunc consequat euismod quisque urna condimentum dolor scelerisque."
+    },
+    "nftRecyleInfo": {
+      "type": "string",
+      "default": "Lorem ipsum dolor sit amet consectetur. Aenean bibendum interdum faucibus viverra pellentesque integer. Consectetur nunc cursus id facilisis fermentum tempor faucibus senectus. Laoreet gravida nisl posuere nec bibendum. Nunc consequat euismod quisque urna condimentum dolor scelerisque."
+    },
+    "windInfo": {
+      "type": "string",
+      "default": "Lorem ipsum dolor sit amet consectetur. Aenean bibendum interdum faucibus viverra pellentesque integer. Consectetur nunc cursus id facilisis fermentum tempor faucibus senectus. Laoreet gravida nisl posuere nec bibendum. Nunc consequat euismod quisque urna condimentum dolor scelerisque."
+    },
+    "enigmaVenturesInfo": {
+      "type": "string",
+      "default": "Lorem ipsum dolor sit amet consectetur. Aenean bibendum interdum faucibus viverra pellentesque integer. Consectetur nunc cursus id facilisis fermentum tempor faucibus senectus. Laoreet gravida nisl posuere nec bibendum. Nunc consequat euismod quisque urna condimentum dolor scelerisque."
+    },
+    "nebulaInfo": {
+      "type": "string",
+      "default": "Lorem ipsum dolor sit amet consectetur. Aenean bibendum interdum faucibus viverra pellentesque integer. Consectetur nunc cursus id facilisis fermentum tempor faucibus senectus. Laoreet gravida nisl posuere nec bibendum. Nunc consequat euismod quisque urna condimentum dolor scelerisque."
+    },
+    "czLabsInfo": {
+      "type": "string",
+      "default": "Lorem ipsum dolor sit amet consectetur. Aenean bibendum interdum faucibus viverra pellentesque integer. Consectetur nunc cursus id facilisis fermentum tempor faucibus senectus. Laoreet gravida nisl posuere nec bibendum. Nunc consequat euismod quisque urna condimentum dolor scelerisque."
+    },
+    "readMore": {
+      "type": "string",
+      "default": "Read more"
+    }
+  }
+}

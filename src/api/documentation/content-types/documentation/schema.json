@@ -1,0 +1,27 @@
+{
+  "kind": "singleType",
+  "collectionName": "documentations",
+  "info": {
+    "singularName": "documentation",
+    "pluralName": "documentations",
+    "displayName": "Documentation"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "heading": {
+      "type": "string",
+      "default": "Documentation"
+    },
+    "subHeading": {
+      "type": "string",
+      "default": "Lorem ipsum dolor sit amet consectetur. Vitae imperdiet mattis tristique fermentum dignissim. Leo consequat sed non magnis tempus ridiculus pharetra nisl nulla. Venenatis leo mollis arcu praesent sollicitudin ut rutrum iaculis. Nisl tortor dignissim tincidunt eu volutpat sit turpis magna."
+    },
+    "readMore": {
+      "type": "string",
+      "default": "Read More"
+    }
+  }
+}

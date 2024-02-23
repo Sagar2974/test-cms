@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_code_commit_cards",
+  "info": {
+    "displayName": "CommitCard"
+  },
+  "options": {},
+  "attributes": {
+    "heading": {
+      "type": "string",
+      "default": "Unlocking Innovation, One Commit at a Time: Your Code, Your Future."
+    },
+    "info": {
+      "type": "string",
+      "default": "Lorem ipsum dolor sit amet consectetur. Aenean bibendum interdum faucibus viverra pellentesque integer. Consectetur nunc cursus id facilisis fermentum tempor faucibus senectus. Laoreet gravida nisl posuere nec bibendum. Nunc consequat euismod quisque urna condimentum dolor scelerisque."
+    },
+    "viewMore": {
+      "type": "string",
+      "default": "View more"
+    }
+  }
+}

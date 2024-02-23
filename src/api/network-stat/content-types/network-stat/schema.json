@@ -1,0 +1,27 @@
+{
+  "kind": "singleType",
+  "collectionName": "network_stats",
+  "info": {
+    "singularName": "network-stat",
+    "pluralName": "network-stats",
+    "displayName": "NetworkStat"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "heading": {
+      "type": "string",
+      "default": "Network Stats"
+    },
+    "card1Heading": {
+      "type": "string",
+      "default": "Network Stats"
+    },
+    "card2Heading": {
+      "type": "string",
+      "default": "Channel Statistics"
+    }
+  }
+}

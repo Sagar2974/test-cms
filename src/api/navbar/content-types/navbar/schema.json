@@ -1,0 +1,44 @@
+{
+  "kind": "singleType",
+  "collectionName": "navbars",
+  "info": {
+    "singularName": "navbar",
+    "pluralName": "navbars",
+    "displayName": "Navbar",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Home": {
+      "type": "string",
+      "default": "Home"
+    },
+    "Repositories": {
+      "type": "string",
+      "default": "Repositories"
+    },
+    "NetworkStats": {
+      "type": "string",
+      "default": "Network Stats"
+    },
+    "Documentation": {
+      "type": "string",
+      "default": "Documentation"
+    },
+    "connectWallet": {
+      "type": "string",
+      "default": "Connect wallet"
+    },
+    "discordLink": {
+      "type": "string",
+      "default": "https://discord.gg/7ATkCqUd"
+    },
+    "twitterLink": {
+      "type": "string",
+      "default": "https://twitter.com/itsmodsiw"
+    }
+  }
+}
